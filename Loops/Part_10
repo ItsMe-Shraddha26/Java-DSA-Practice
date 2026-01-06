@@ -1,0 +1,10 @@
+public class Part_10{
+    public static void main (String []arg){
+        //Right angle triangle stars
+        for(line=1; line<=4; line++){
+            for(int star = 1; star<=line; star++){
+                ystem.out.println("*")
+            }
+        }
+    }
+}
